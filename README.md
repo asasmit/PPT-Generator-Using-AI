@@ -113,13 +113,9 @@ A downloadable `.pptx` file with auto-generated slides and relevant images.
 
 ## 🙌 Credits
 
-Created by [Your Name]. Powered by:
+Created by Asmit Dixit. Powered by:
 - [Gradio](https://gradio.app/)
 - [SerpAPI](https://serpapi.com/)
 - [python-pptx](https://python-pptx.readthedocs.io/)
 
----
 
-## 📄 License
-
-MIT License
