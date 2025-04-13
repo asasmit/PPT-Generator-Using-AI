@@ -1,0 +1,8 @@
+gradio
+python-pptx
+langchain==0.1.13
+faiss-cpu==1.7.4
+huggingface-hub==0.20.3
+transformers==4.38.2
+requests==2.31.0
+python-dotenv==1.0.1

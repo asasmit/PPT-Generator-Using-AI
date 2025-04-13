@@ -1,0 +1,30 @@
+{
+    "slides": [
+      {
+        "type": "title",
+        "title": "Temperature - Measure Heat",
+        "subtitle": "Auto-generated Lesson Plan"
+      },
+      {
+        "type": "content",
+        "title": "Understanding Heat",
+        "points": ["Heat is a form of energy", "It flows from hot to cold", "We measure it using thermometers"]
+      },
+      {
+        "type": "content",
+        "title": "Measuring Temperature",
+        "points": ["Thermometers use mercury or alcohol", "Readings are in Celsius or Fahrenheit"]
+      },
+      {
+        "type": "quiz",
+        "title": "Quiz Time!",
+        "quiz": {
+          "type": "mcq",
+          "question": "What is used to measure temperature?",
+          "options": ["Thermometer", "Barometer", "Hydrometer", "Speedometer"],
+          "answer": "Thermometer"
+        }
+      }
+    ]
+  }
+  
